@@ -1,6 +1,6 @@
 {
   "name": "togetherjs",
-  "version": "0.4.0a",
+  "version": "1.0.0",
   "main": "hub/server.js",
   "description": "Collaborative help system",
   "keywords": [],
@@ -40,10 +40,6 @@
     "optimist": "~0.6.0",
     "freeport": "~1.0.3",
     "grunt-lib-phantomjs": "~0.6.0"
-  },
-  "engines": {
-    "node": "~0.12.7",
-    "npm": "^2.11.3"
   },
   "scripts": {
     "start": "node hub/server.js",
